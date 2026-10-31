@@ -526,7 +526,7 @@ git branch --show-current
 git remote -v
 ```
 
-**실제 확인된 내용:** 개인 노트북의 현재 브랜치는 `main`, 원격 저장소는 `https://github.com/neoinkyu/E1-1.git`이었다. Git 작성자 이름·이메일 및 기본 브랜치 설정은 아래 **실제 설정 화면**을 증거로 남겼다. 제출 이미지에서 개인 이메일, 인증정보는 가려야 한다.
+**실제 확인된 내용:** 개인 노트북의 현재 브랜치는 `main`, 원격 저장소는 `https://github.com/neoinkyu/E1-1.git`이었다. Git 작성자 이름·이메일 및 기본 브랜치 설정은 아래 **실제 설정 화면**을 증거로 남겼다.
 
 ![Git 설정 및 GitHub 원격 저장소 정보](screenshots/09-git-github/20-git-config.png)
 
