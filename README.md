@@ -120,6 +120,7 @@ mv workspace/note-renamed.txt workspace/archive/
 ls -la workspace/archive
 
 # 절대 경로로 파일 읽기
+# ※ /home/neoinkyu 는 작성자 PC 의 홈 경로다. 다른 PC 에서는 ~ 로 바꿔 실행한다 (예: cat ~/e1-1-cli-lab/workspace/archive/note-renamed.txt)
 cat /home/neoinkyu/e1-1-cli-lab/workspace/archive/note-renamed.txt
 
 # 파일과 빈 폴더 지우기
